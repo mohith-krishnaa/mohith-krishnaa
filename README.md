@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="620" alt="ASCII portrait of Mohith Krishnaa"/>
+<img src="./ascii.svg" width="100%" alt="ASCII portrait of Mohith Krishnaa"/>
 
 # MOHITH KRISHNAA
 
