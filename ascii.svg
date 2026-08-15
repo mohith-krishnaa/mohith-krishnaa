@@ -1,42 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="500" viewBox="0 0 620 500">
-<rect width="620" height="500" fill="transparent"/>
-<style>text{font-family:monospace;font-size:11px;letter-spacing:0.25px;}</style>
-<text x="310" y="28" text-anchor="middle" fill="#9a9a9a">+**********++++++++++++++*********+=*#*++*########*********++++==+==--=+</text>
-<text x="310" y="40" text-anchor="middle" fill="#9a9a9a">+******++++++++++++++++++++======+:=*=:-=--=+*####*####***********+++++*</text>
-<text x="310" y="52" text-anchor="middle" fill="#9a9a9a">+****+++++++++++++++++=-----====-=**+=+****+=--=+*#*********************</text>
-<text x="310" y="64" text-anchor="middle" fill="#9a9a9a">+*++++++++++++++++++-:-=+******###****#********=--=+*****+++=++*********</text>
-<text x="310" y="76" text-anchor="middle" fill="#9a9a9a">++++++++++++++++++*::++*++************+####******= :++++++==-===********</text>
-<text x="310" y="88" text-anchor="middle" fill="#9a9a9a">+++++++++++++++++=-:=+++*********************##***+-::-=====-::-==+*****</text>
-<text x="310" y="100" text-anchor="middle" fill="#9a9a9a">=++++++++++++++=::=*+++**********************#**##*#*=-:=+=-..---::--=++</text>
-<text x="310" y="112" text-anchor="middle" fill="#9a9a9a">=++++++++:=+++::-++=++++************************#**+***-.=::=+==++=--::-</text>
-<text x="310" y="124" text-anchor="middle" fill="#9a9a9a">=+++++++= .++=.=::=++*=-=**+********************#*****=:--=+=--:=++++=--</text>
-<text x="310" y="136" text-anchor="middle" fill="#9a9a9a">++++++++::-.++++- ==-=.*-=-:-**************#*+**#*****::+=----==++++++=-</text>
-<text x="310" y="148" text-anchor="middle" fill="#9a9a9a">+++++++= =+::---::..=+-+:.:=-=*******+=++***=+#+=#****#*=:-+++++++++****</text>
-<text x="310" y="160" text-anchor="middle" fill="#9a9a9a">+++++=-:-++++==::-:====++:-=:=***+++====--=--==-=*#***=-=-.++++++++*****</text>
-<text x="310" y="172" text-anchor="middle" fill="#9a9a9a">=+++:.:=+++++++ -:+++++==:++=+**+--:-**=::::::=*+****+.=++***+++***++++*</text>
-<text x="310" y="184" text-anchor="middle" fill="#9a9a9a">-======::+----=: ++++++**++=++**=--::--:--::::=++**+=:=***********+++++*</text>
-<text x="310" y="196" text-anchor="middle" fill="#9a9a9a">-=----=:.::-:---.----=++**=====+-----::-------:-=++--+******************</text>
-<text x="310" y="208" text-anchor="middle" fill="#9a9a9a">=+===-=-:-=======-:-=.-++*+====---------------:--++.=++++++++***++++++++</text>
-<text x="310" y="220" text-anchor="middle" fill="#9a9a9a">+++++++++===========:.-=++**++==----------------++-.+++====-=-.-========</text>
-<text x="310" y="232" text-anchor="middle" fill="#9a9a9a">=====+++=+++++++++===---.=+++++=---------------++-.=++++++==- =.:==++++=</text>
-<text x="310" y="244" text-anchor="middle" fill="#9a9a9a">==-=***==+**+===++++++=+=-==::++===---------=++=::++++++++++.=:-:.***+**</text>
-<text x="310" y="256" text-anchor="middle" fill="#9a9a9a">+*+**********+*+=-----------:-++========--==+++-++++++++++*-:=  +::-==.:</text>
-<text x="310" y="268" text-anchor="middle" fill="#9a9a9a">*###**********--=++**+++++++++++====-----+++:-=----=-===++*.=:   . :*-:+</text>
-<text x="310" y="280" text-anchor="middle" fill="#9a9a9a">*#####*******.=*#*++====:::::-=======----===+====-------=-:       .*.-#*</text>
-<text x="310" y="292" text-anchor="middle" fill="#9a9a9a">*####*******+-#*+=---:::-:::::::----=------:-::::::::-+: -=---   . *=:**</text>
-<text x="310" y="304" text-anchor="middle" fill="#9a9a9a">*#####****#*:=*+--::::-:--:::::::::::::::::::::::::-::::::-=---.*+:=+ *#</text>
-<text x="310" y="316" text-anchor="middle" fill="#9a9a9a">*#**##***#*:=#+--:::::--:-::::::::::::::::::::::::::-:--=+.+#::#* =+=-*%</text>
-<text x="310" y="328" text-anchor="middle" fill="#9a9a9a">*#***##***.=#*=--::::::--:-:::::::::::::::::::::::::-:---+=-#*:::=####*#</text>
-<text x="310" y="340" text-anchor="middle" fill="#9a9a9a">*#****###*.*#*==-:::::::-:-::::::::::::::::..::::.::-:----*:-**+*##***#*</text>
-<text x="310" y="352" text-anchor="middle" fill="#9a9a9a">+****#***#:+#*===-::::::--:-::::::::::::::::::::.:::-:----=*:+*****+****</text>
-<text x="310" y="364" text-anchor="middle" fill="#9a9a9a">+***=-.=#*-=#*====::::::---:-:-::::::.:::::::::..::::------+*:+**++**+++</text>
-<text x="310" y="376" text-anchor="middle" fill="#9a9a9a">+*-.:-*+:+++**====-::::::-=----::::::::::::::::..::::-------*-:**++***++</text>
-<text x="310" y="388" text-anchor="middle" fill="#9a9a9a">+**+**-:=*++*+=====:::::::-=---::::::::::::::::.:::::-=-----=*=:+*###***</text>
-<text x="310" y="400" text-anchor="middle" fill="#9a9a9a">*###+:+###+:*+=====-.:::::-==--::::::::::::::::::::::-=------+#*.=%#%###</text>
-<text x="310" y="412" text-anchor="middle" fill="#9a9a9a">*###*####**=++====--::::::-==---::::::::::::::::::::::--=-=:-=+#+:#####%</text>
-<text x="310" y="424" text-anchor="middle" fill="#9a9a9a">*########*#:=*=-==-:-:::::==--:-::::::::::::::::::::::-=-==-:-=+#=*#####</text>
-<text x="310" y="436" text-anchor="middle" fill="#9a9a9a">*########*#:+*==-+=::-::::-=--:::::::::::::::::::::::::-=:..:=+==#######</text>
-<text x="310" y="448" text-anchor="middle" fill="#9a9a9a">*####**#****#*+=-==---:::-==--::-::::::::::::::::::::::-+=-=-+*=+**#**##</text>
-<text x="310" y="468" text-anchor="middle" fill="#b0b0b0" font-family="monospace" font-size="11" letter-spacing="4">M K  /  MOHITH KRISHNAA</text>
-<text x="310" y="486" text-anchor="middle" fill="#777" font-family="monospace" font-size="9" letter-spacing="2">BACKEND · AUTOMATION · DATA · TOOLS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="400" viewBox="0 0 520 400">
+<rect width="520" height="400" fill="transparent"/>
+<style>text{font-family:monospace;font-size:6.6px;letter-spacing:.2px}</style>
+<g fill="#b8b8b8">
+<text x="18" y="16" xml:space="preserve">5553   Xrr2322rrhMMh3MMHHHGGGGGGGSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSGGGGGGGHHHHHHMhMMMMMMMM  rMr   A</text>
+<text x="18" y="22.2" xml:space="preserve">55MX  2ri;XM2i hMMM2MHHGGGGGGSSSSSSSSS#####################SSSSSSSSSGGGGGGHHHHH3hMMMMMM  M5   M5</text>
+<text x="18" y="28.4" xml:space="preserve">52M. :Ai;iAA5i2MHM23GM XGGSSSSSSS###############################SSSSSSSGGGGGGHH5hMMM33M  A   M22</text>
+<text x="18" y="34.6" xml:space="preserve">55Mr  ArXr;.X3HHMA5GG   2SSSS########99999999999999999999999########SSSSSSGHGGG35MHMhMA     M2A2</text>
+<text x="18" y="40.8" xml:space="preserve">552X  3, :: HHMH2hHG5 S  S#######999999999999BBBBBBB999999999999#######SSSS5GGGGMHHH,M  2M MMAA2</text>
+<text x="18" y="47" xml:space="preserve">2XrAriX:    H3HMHGHS  SS :####9999999BBBBBBBBBBBBBBBBBBBBBBB9999999######SSASSGGGGHH    MMMMhhM3</text>
+<text x="18" y="53.2" xml:space="preserve">2Xrrsr;A    H5GGGhMS  ##: #9  ,9BBBBBBBBBB&&&&&&&&&&&BBBBBBBBBB99999#####SSSSGGG  AHHhMMMX</text>
+<text x="18" y="59.4" xml:space="preserve">255srsr3    GGGMXSSS  ### #9M    BBBB&&&&&&&&&&&&&&&&&&&&&&&BBBBBBB99999#####SSSSGGG  AHHhM.</text>
+<text x="18" y="65.6" xml:space="preserve">2255555hA   iHs   ;# i##9 rBG M; #&&&&&&&&@@@@@@@@@@@@@&&&&&&&&&BBBGBB9999#####SSSSGr   HH3    .</text>
+<text x="18" y="71.8" xml:space="preserve">22A222553G  ,G  X    r999  5# h&  @@@@@@@@@@@@@@@@@@@SH@@@@@@&&&i#&BBBBB9999####SSSSG   ,HHM33</text>
+<text x="18" y="78" xml:space="preserve">253553533M. .s ;###  s9B      2&  @@@@@@@@@@@@@@@@@@@@@@@@9B@@&&&SHBBBB9999####SSSSGA   3M55</text>
+<text x="18" y="84.2" xml:space="preserve">:MA553hh2sA  r 5GS99  BB B 9; 5@3 @@@@@@@@@@@@@@@@@&22B@@@@@@@@@5 h@&&&3 BBBB9999###SSSSGG   2MX</text>
+<text x="18" y="90.4" xml:space="preserve">               h9SG9. B# & h&  @B &@@@@@@@@@@@@@@@2i;M@@@&9@@@@M,:@@@@#  HBBBB9999###SSSSGG:  HA</text>
+<text x="18" y="96.6" xml:space="preserve">.          h    G99BBBB&   r@r,@@ 9@@@@@@@@@@@@@@@#s2hXrA22i3@9@&..3@@@H3##9&BBBB999####SSSGHG  A3</text>
+<text x="18" y="102.8" xml:space="preserve">55MHGGGS  ;: iM   BBBB&&&  s@@@@@ 9@@@@@@@@@@@@@HH@3.;255MhX:;rh:@2,G@9#9;HBB&&&&BBB99S####SSSGG  sh</text>
+<text x="18" y="109" xml:space="preserve">53h355Hr  #  r29G  5&&&&@@  i@@@@ #@@@@@@@@@HH@3.;255MhX:;rh:@2,G@9#9;HBB&&&&BBB99S####SSSGG  sh</text>
+<text x="18" y="115.2" xml:space="preserve">35353GM  5GS  5#BBA  &&@&@3   s@@ S@@@@@@@@MsB9M@&99H3sHhii:;&iG@M H9;i;:.S&&&BBB9#99         Mh</text>
+<text x="18" y="121.4" xml:space="preserve">3333G   sSH#3rX99#&M  S@&@A @s  3 G@@@@@@@3r3@@@S#@@@@&rXrrrrr;Xisr2A:rssA@&&&&BBB#99        iGM</text>
+<text x="18" y="127.6" xml:space="preserve">333hG  A##  SSMBBB9H&2 r@@s @@@   H@@@@@@#r9@G:. G@@@@@MiXrrrrrrrXXA2@@@@@@@@&&&BBB9H  ##SSSGGGH</text>
+<text x="18" y="133.8" xml:space="preserve">33h3S   #A  SGG##9B#B@B  @5 @9@@M @@@@@@@@GG:.::i@&@@@G:sXrrrrrrrXXA2@@@@@@@@&&&BBB9  X###SSSGGG</text>
+<text x="18" y="140" xml:space="preserve">3333Ss  #  H#GGS99##B@@@    @&@@@@@@@@@@@Ms::;i:i@@@&&G;sssrrrrrrX; .@@@@@@@@@&&&BBB  9###SSSGGG</text>
+<text x="18" y="146.2" xml:space="preserve">5333hH  , ;9HGGS#99#B@@@@3  @&&&&@@@@@@@HXXsr;::,@@BG@5;sXXsrrrrrr; h@@@@9@@@@&&&BB5  99###SSSGH</text>
+<text x="18" y="152.4" xml:space="preserve">533h3S    9GHGGS#9#9B@@@@@@&@B9G#@@B@@@@3rAsss;: A@&@&irsXXsrrrrrsi G@BS@@@@@@@&9&B  S99###SSSGG</text>
+<text x="18" y="158.6" xml:space="preserve">353h3S;  59HGGGS99999@@@@B@@&HAXh@#B@@@@HiXXrsXsi.M95rrsssXsrrrrrss M@B@#&@@@@@B&&X  999###SSSGG</text>
+<text x="18" y="164.8" xml:space="preserve">5Hh35Mh   HSHGGS#B99B&@@@@@&#AM5G@AB@@@@HA22XssXXXriisssXsXsrrrrrssir@@BX@@@@@@@&5  BB999###SSSG</text>
+<text x="18" y="171" xml:space="preserve">  iMSS#   SGHGHHG@@9BB@@@@@@G399@#A#@@@@h2335XssssssssssXsXsrrrsrsssish,G@@@@@#r   3BB999###SSSG</text>
+<text x="18" y="177.2" xml:space="preserve">          9HGHHHHS@BB9B@@@@&HHSHHSS@@&@@3255AXsssssssssssXssXrsXrrssri,A@@@&MB.   #BBB999###SSSG</text>
+<text x="18" y="183.4" xml:space="preserve">;.        9GGS#B#HGB&&&@@@@&GH#hM5S@S9@952AAXXssssssXXXssssXXXX552irri5@@@@@M#GX#&&B9B999###SSSG</text>
+<text x="18" y="189.6" xml:space="preserve">sAHG5sis   GB   H@&B@@@@@@@@Sh9GHG##3M@M22AAAXAXssssXXXAssXXXXs23GAirrA5sh&@SB@@&B99BB999###SSSG</text>
+<text x="18" y="195.8" xml:space="preserve">riXhHSS#H   hA    hBHS&@@@@@95M#GHH#h25352AAXXXAXsssXXsXXXAAXXXX2M9rrrir:3@9#@X 3&#999999###SSSG</text>
+<text x="18" y="202" xml:space="preserve">irsA2255H#;   9G   ;ShH#@@@@&MAG###G333M32AAAXssssXsXXXXAAAXXXXXXAMrrrsXi5@SG&, h&#B9###9###SSSG</text>
+<text x="18" y="208.2" xml:space="preserve">iiirrrrssAMh   &&B  MShS@@@@@#23MGH3333hh2A2AXA2255XsXXXAAXXXXXXA3XrsssAr2@HG@  9B###9###GSSSSSG</text>
+<text x="18" y="214.4" xml:space="preserve">iirrssssXsX53:;SH@M X#h#@&@@@&MAhSGHM333h5A2AA525553XXAXAAXAAXXXA2sssrA3AH@H#@  B##S####MhMHHGGG</text>
+<text x="18" y="220.6" xml:space="preserve">rrAAssXXXX533353HG  9Hh#@&&&@@@SMhS#Sh33h552AA2XAs22XXXssXAAXXXXAAAXXsA5A#BG#B  &GSSS#HMMMMhMhrs</text>
+<text x="18" y="226.8" xml:space="preserve">sXAXsrsXsA53333H9  3GMhB@9S@@@@BGM2hSh333552222XssssXssXXAAAAAXXAAAXXXXr3@HG&H :&GSS#GhMM5srrr;i</text>
+<text x="18" y="233" xml:space="preserve">rsssrsXAA2AX22hA  i9MGG@@MG@@@@@@9MXA2h33355AA22AAsXXXXXAAAAAAXAA2AAAAAs@&MG@X A9MGGH3533Asi;iri</text>
+<text x="18" y="239.2" xml:space="preserve">AsssrssXXAXrss5s   M9@@@9MH@@@@@@@@9GG5555332AA2AAAXsXsXXXsrssssXAAAAAsH@SH#@  G#HGHhh35553X;i;i</text>
+<text x="18" y="245.4" xml:space="preserve">3hhh352A222XAAA53        GM&@B@@@@@@@@M555335AA2AAAAXXAAAXhHHS9#3XAAAAX@@GG9H  9HHMMMHM33533AAXi</text>
+<text x="18" y="251.6" xml:space="preserve">23MMMhHGHHGHGSHG#B#i     SHB@#@@@@@@@@G3525335252AAAAAAAXH&SSHHS3XAAAsH@SGSB  5#MMMh3hMh3333AXXi</text>
+<text x="18" y="257.8" xml:space="preserve">3hhhh33hMHHGGSS##SGGSS&r H&&@@&H&B@SH@S5h555533552AAAAAAXAXrsrrsXAA2X2@B#G&X  BHMHHh3Mhh333332Xr</text>
+<text x="18" y="264" xml:space="preserve">h5hhMMMMMMMHM353h553MGBB  @B9@@M@@@Hh@S2H55555555352AAAAAXAAAAA22AAXX&@SG#G  GSHHHHMMMMMMMhh32As</text>
+<text x="18" y="270.2" xml:space="preserve">5rXA533MHHGGGSSS##999#GB2  @9@@93 @#3@S2#h525555355522A2AAAAA2AAAAs2B@BS#&  5BGHMMMMMMh3h353522A</text>
+<text x="18" y="276.4" xml:space="preserve">3rXXXXXA2A2253hMMM3553GS&: :@rM@i ;&3&#3SGM35225555555AAAAA2A2AAAr3@@BS&&  sBB999###SSHM3522AXAA</text>
+<text x="18" y="282.6" xml:space="preserve">hsAXAAA2AAAXA5222A3S3MSS#&  &  &h  BhBBhSGGGMh52255552AA2AAAA2AXi5&@&#B&  :B9#99####SSSGGGGHHMMh</text>
+<text x="18" y="288.8" xml:space="preserve">hrXXXAAAA2A2hH5h3H9H2G##S#BBBMh9r s9hB@MGGSSGHMh5225552A22AA2AXi2&&&G9H  iSh53h5333HHGGGGGHHHMMM</text>
+<text x="18" y="295" xml:space="preserve">MsssXXAAAsX2hSSS#####999BBBBB&9&  5Sh9&GGMGGGGHHMM35222AAAAAAXis&&&MGX  2H555hh52AAsssXA33hMMMMA</text>
+<text x="18" y="301.2" xml:space="preserve">M3222A2A22HGGSSMX,                MMh9BHH3HHHGGHhMhh3352Xssrr:s&&#MM9  G9Mh3335AXA2AXXAAAAXX22M</text>
+<text x="18" y="307.4" xml:space="preserve">MhhMMM5hHHHM                     3M33B9HHMHGHHHHMMMMhMMh32AAsh&BHhH9B99999####GHMh335AXXXAAXAX5</text>
+<text x="18" y="313.6" xml:space="preserve">MMMMMMMMH,     .XMSG#####999#S9BGM3hhSSHMMMMhhMMhMSGMhMMMMG9BBB3M#9SHSGMHMMMGGGSSGGGGHHHMMMMhM2</text>
+<text x="18" y="319.8" xml:space="preserve">MMMMMMM     3GGGGGGHSS######SS99H2hH39GMh335555225225hh335SBS93hH ,#h553522A22X255hhMhhHMMMMMM:</text>
+<text x="18" y="326" xml:space="preserve">MMMMM    rMHHHHGGGGGSSSSS#####SGGGG3G9Mh3255553Xirriiri;;;X9333HM  #HGGSSGHMhhH2AAAAAXsXXAA55M</text>
+<text x="18" y="332.2" xml:space="preserve">MMMM   AMMMMMHHHHGGGGGSSSSS#######9999hh52225553rirrriiiiiS9h3hhM  #s;iiii;iXGGGHMh5XXXXXXXXXM</text>
+<text x="18" y="338.4" xml:space="preserve">MMMX  MMMMMMMMHHHHM5AAA2i;Mh53MHS###SS5h2A5AA225X;rriiii;;##3533M  H              shM5XsXXXAXh</text>
+<text x="18" y="344.6" xml:space="preserve">MMM  MMMMMMMMMMM5srXAAXA, s:     .232333AAAAAAAAAiii;;i;:rM#A533hhM3 ;rsXsXr.        ;33AXXssMM</text>
+<text x="18" y="350.8" xml:space="preserve">MM  ;MMMMMMMMMMr;i;sXsrX     .. .. iA5M2XXXXXXXXAr:;;;;:r2XSXs53GhhGGGGGGHHHHHHMMi     ,2XXMMs</text>
+<text x="18" y="357" xml:space="preserve">M3  MMMMMMMMM5ii;:iiissi         ,..rA2XXXsXXXXXXX::::::A2XM5XA5M3MHHMHHHH;  iXMMMMM5   :MMM</text>
+<text x="18" y="363.2" xml:space="preserve">M  2MMMMMMMh5rrrri;:,:;;            .irsssssssXssX;:::::;;;sH5;5Mh.  .          ,s3MMM2,MM</text>
+</g>
+<text x="260" y="380" text-anchor="middle" fill="#c0c0c0" font-family="monospace" font-size="8" letter-spacing="2">M K  /  MOHITH KRISHNAA</text>
+<text x="260" y="394" text-anchor="middle" fill="#777" font-family="monospace" font-size="6.5" letter-spacing="1.3">BACKEND · AUTOMATION · DATA · TOOLS</text>
 </svg>
