@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./ascii.svg" width="72%" alt="ASCII portrait of Mohith Krishnaa"/>
+<img src="./ascii.svg" width="46%" alt="ASCII portrait of Mohith Krishnaa"/>
 
 # MOHITH KRISHNAA
 
-### `build → break → understand → rebuild`
+`build → break → understand → rebuild`
 
 **Computer Science · Data Science · Backend · Automation · Developer Tools**
 
@@ -17,11 +17,9 @@
 
 ## `whoami`
 
-I'm **Mohith Krishnaa**, a Computer Science & Data Science student who likes building practical software, automating repetitive work, and turning experiments into usable tools.
+I'm **Mohith Krishnaa**, a Computer Science & Data Science student who builds practical software, automates repetitive work, and turns experiments into usable tools.
 
 **Focus:** backend systems · Python automation · developer utilities · data/AI applications · bots & APIs
-
-Currently building, learning, and improving projects around **backend architecture, data engineering, AI applications, and reliable automation**.
 
 ---
 
@@ -40,17 +38,11 @@ AI             █████████████░░░░░░░  API
 
 ## `./stack`
 
-**Languages**  
-`Python` · `Java` · `C++` · `JavaScript` · `HTML` · `CSS`
-
-**Backend & APIs**  
-`Flask` · `FastAPI` · `REST APIs` · `HTTP` · `JSON`
-
-**Data & Automation**  
-`NumPy` · `Pandas` · `MongoDB` · `BeautifulSoup` · `Requests` · `yt-dlp` · `Telegram Bot API` · `GitHub Actions`
-
-**Development**  
-`Git` · `GitHub` · `Linux` · `Docker`
+**Languages** · `Python` `Java` `C++` `JavaScript` `HTML` `CSS`  
+**Backend** · `Flask` `FastAPI` `REST APIs` `HTTP` `JSON`  
+**Data** · `NumPy` `Pandas` `MongoDB`  
+**Automation** · `BeautifulSoup` `Requests` `yt-dlp` `Telegram Bot API` `GitHub Actions`  
+**Tools** · `Git` `GitHub` `Linux` `Docker`
 
 ---
 
@@ -111,22 +103,9 @@ Improve old projects instead of abandoning them.
 
 ---
 
-## `./activity`
-
-```text
-Projects > tutorials
-Experiments > assumptions
-Working software > buzzwords
-Learning by building > passive learning
-```
-
----
-
 <div align="center">
 
-**[@mohith-krishnaa](https://github.com/mohith-krishnaa)**
-
-### `Made by Mohith Krishnaa`
+**[@mohith-krishnaa](https://github.com/mohith-krishnaa)** · `Made by Mohith Krishnaa`
 
 <sub>Still learning. Still building. Still breaking things.</sub>
 
