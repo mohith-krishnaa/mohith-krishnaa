@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="46%" alt="ASCII portrait of Mohith Krishnaa"/>
+<img src="./ascii.svg" width="280" alt="ASCII portrait of Mohith Krishnaa"/>
 
 # MOHITH KRISHNAA
 
@@ -9,6 +9,7 @@
 **Computer Science · Data Science · Backend · Automation · Developer Tools**
 
 <a href="https://github.com/mohith-krishnaa"><img src="https://img.shields.io/badge/GitHub-mohith--krishnaa-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=mohith-krishnaa&label=PROFILE%20VIEWS&style=for-the-badge" />
 
 </div>
@@ -96,8 +97,11 @@ Improve old projects instead of abandoning them.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohith-krishnaa&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohith-krishnaa&layout=compact&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohith-krishnaa&show_icons=true&hide_border=true&rank_icon=github&width=420" width="90%" alt="GitHub statistics" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohith-krishnaa&layout=compact&hide_border=true&width=420" width="90%" alt="Top languages" />
 
 </div>
 
