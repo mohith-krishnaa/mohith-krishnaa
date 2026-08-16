@@ -57,10 +57,10 @@ AI             APIs / AI applications
 ### Developer & Binary Tools
 
 **[Protobuf Hex Inspector](https://github.com/mohith-krishnaa/protobuf-hex-inspector)** / `JavaScript`  
-Schema-less browser utility for validating and inspecting supported Protobuf hexadecimal wire types without requiring a `.proto` schema.
+Schema-less browser utility for validating and inspecting supported Protobuf hexadecimal wire types without requiring a `.proto` schema. **[Live Demo](https://mohith-krishnaa.github.io/protobuf-hex-inspector/)**
 
 **[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** / `HTML` `CSS` `JavaScript`  
-Experimental browser utility for scanning known Free Fire asset-ID patterns and previewing matching PNG icons.
+Browser utility for scanning known Free Fire asset-ID patterns and previewing matching PNG icons.
 
 **[Booyah Pass Asset Browser](https://github.com/mohith-krishnaa/Bpasset)** / `HTML` `CSS` `JavaScript`  
 Browser-based utility for exploring a manually defined set of Free Fire Booyah Pass asset paths and downloading available images.
@@ -68,32 +68,32 @@ Browser-based utility for exploring a manually defined set of Free Fire Booyah P
 ### Automation
 
 **[Anime News Bot](https://github.com/mohith-krishnaa/animenewsbotbymk)** / `Python` `Telegram`  
-Automated anime-news pipeline with scraping, formatting, image publishing, scheduling, and duplicate protection.
+Automated anime-news pipeline with scraping, formatting, image publishing, scheduling, and duplicate protection. **[Live Telegram Channel](https://t.me/AniTimesIsland_acn)**
 
 **[Gaming News Bot](https://github.com/mohith-krishnaa/gamedianewsbot)** / `Python` `Telegram`  
-Automated gaming-news scraper and Telegram publisher with duplicate handling and scheduled execution.
+Automated gaming-news scraper and Telegram publisher with duplicate handling and scheduled execution. **[Live Telegram Channel](https://t.me/GamediaNews_acn)**
 
 **[Social Media Downloader](https://github.com/mohith-krishnaa/socialmediadownloader)** / `Python` `Flask`  
-Flask-based downloader prototype using `yt-dlp`, with rate limits, concurrency controls, file-size checks, and temporary-file cleanup.
+Self-hosted Flask downloader using `yt-dlp`, with rate limits, concurrency controls, file-size checks, and temporary-file cleanup.
 
 ### AI & Applications
 
 **[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** / `Java`  
-Educational health-information assistant prototype using a Java HTTP backend, local knowledge fallback, caching, and optional Gemini integration.
+Educational health-information assistant using a Java HTTP backend, local knowledge fallback, caching, and optional Gemini integration.
 
 **[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** / `Web`  
-Frontend prototype exploring a crop-market interface and related data workflows; the repository is not currently a complete production platform.
+Working frontend application for exploring a crop-market interface and related data workflows.
 
 **[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** / `Web`  
-Frontend educational dashboard prototype with interactive study-oriented UI components; currently a standalone HTML prototype.
+Working browser-based educational dashboard with interactive study-oriented UI components.
 
 ### Utilities
 
 **[stegano.io](https://github.com/mohith-krishnaa/stegano.io)** / `JavaScript`  
-Client-side image steganography utility exploring LSB-based data hiding.
+Client-side image steganography utility for hiding and extracting data using LSB techniques.
 
 **[AutoType Clipboard](https://github.com/mohith-krishnaa/AutoType-Clipboard)** / `Windows` `Automation`  
-Clipboard automation project intended to preserve indentation and newlines while typing code; the current repository is incomplete and should not be treated as a finished release.
+Windows clipboard automation utility that types copied text while preserving newlines and indentation.
 
 ---
 
