@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/115228027?v=4" width="260" alt="Mohith Krishnaa profile avatar"/>
+<img src="./ascii.svg" width="420" alt="ASCII portrait of Mohith Krishnaa" />
 
-<h2>MOHITH KRISHNAA</h2>
+# MOHITH KRISHNAA
 
-<code>build → break →</code><br/>
-<code>understand → rebuild</code>
+<code>build → break → understand → rebuild</code>
 
 <p>
-Computer Science · Data Science<br/>
+Computer Science · Data Science<br />
 Backend · Automation · Developer Tools
 </p>
 
-<a href="https://github.com/mohith-krishnaa"><img src="https://img.shields.io/badge/GitHub-mohith--krishnaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br/>
-<img src="https://komarev.com/ghpvc/?username=mohith-krishnaa&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/mohith-krishnaa">GitHub · @mohith-krishnaa</a>
 
 </div>
 
@@ -21,31 +19,37 @@ Backend · Automation · Developer Tools
 
 ## `whoami`
 
-I'm **Mohith Krishnaa**, a Computer Science & Data Science student who builds practical software, automates repetitive work, and turns experiments into usable tools.
+I'm **Mohith Krishnaa**, a Computer Science & Data Science student who likes turning ideas, experiments, and repetitive tasks into working software.
 
-**Focus:** backend systems · Python automation · developer utilities · data/AI applications · bots & APIs
+I mainly work around **backend systems, Python automation, developer utilities, bots, APIs, and data/AI applications**.
+
+I prefer building something real, testing how it behaves, then improving it instead of pretending the first version is perfect.
 
 ---
 
 ## `./focus`
 
 ```text
-BACKEND        ████████████████████  Python · Flask · FastAPI
-AUTOMATION     ██████████████████░░  Bots · Scraping · GitHub Actions
-WEB TOOLS      █████████████████░░░  HTML · CSS · JavaScript
-DATA           ███████████████░░░░░  NumPy · Pandas · MongoDB
-SYSTEMS        █████████████░░░░░░░  Java · C++ · Linux
-AI             █████████████░░░░░░░  APIs · AI applications
+BACKEND        Python · Flask · FastAPI · REST APIs
+AUTOMATION     Bots · Scraping · GitHub Actions
+WEB TOOLS      HTML · CSS · JavaScript
+DATA           NumPy · Pandas · MongoDB
+SYSTEMS        Java · C++ · Linux · Docker
+AI             APIs · AI applications
 ```
 
 ---
 
 ## `./stack`
 
-**Languages** · `Python` `Java` `C++` `JavaScript` `HTML` `CSS`  
-**Backend** · `Flask` `FastAPI` `REST APIs` `HTTP` `JSON`  
-**Data** · `NumPy` `Pandas` `MongoDB`  
-**Automation** · `BeautifulSoup` `Requests` `yt-dlp` `Telegram Bot API` `GitHub Actions`  
+**Languages** · `Python` `Java` `C++` `JavaScript` `HTML` `CSS`
+
+**Backend** · `Flask` `FastAPI` `REST APIs` `HTTP` `JSON`
+
+**Data** · `NumPy` `Pandas` `MongoDB`
+
+**Automation** · `BeautifulSoup` `Requests` `yt-dlp` `Telegram Bot API` `GitHub Actions`
+
 **Tools** · `Git` `GitHub` `Linux` `Docker`
 
 ---
@@ -54,31 +58,44 @@ AI             █████████████░░░░░░░  API
 
 ### 🧩 Developer & Binary Tools
 
-**[Protobuf Hex Inspector](https://github.com/mohith-krishnaa/protobuf-hex-inspector)** — Schema-less browser tool for inspecting and decoding structured Protobuf HEX data.
+**[Protobuf Hex Inspector](https://github.com/mohith-krishnaa/protobuf-hex-inspector)** · `JavaScript`  
+Schema-less browser tool for inspecting and decoding raw Protobuf hexadecimal data without requiring a `.proto` schema.
 
-**[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** — Asset scanning, previewing and downloading utility for Free Fire icons.
+**[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** · `HTML` `CSS` `JavaScript`  
+Utility for scanning, previewing, and downloading Free Fire icon assets.
 
-**[Booyah Pass Asset Browser](https://github.com/mohith-krishnaa/Bpasset)** — Browser for exploring Free Fire Booyah Pass assets across versions and seasons.
+**[Booyah Pass Asset Browser](https://github.com/mohith-krishnaa/Bpasset)** · `HTML` `CSS` `JavaScript`  
+Browser for exploring Free Fire Booyah Pass assets across versions and seasons.
 
 ### 🤖 Automation
 
-**[Anime News Bot](https://github.com/mohith-krishnaa/animenewsbotbymk)** — Automated Telegram anime-news pipeline with scraping, formatting, images and duplicate protection.
+**[Anime News Bot](https://github.com/mohith-krishnaa/animenewsbotbymk)** · `Python` `Telegram`  
+Automated anime-news pipeline with scraping, formatting, image publishing, and duplicate protection.
 
-**[Gaming News Bot](https://github.com/mohith-krishnaa/gamedianewsbot)** — Automated gaming-news scraper and Telegram publisher with duplicate handling.
+**[Gaming News Bot](https://github.com/mohith-krishnaa/gamedianewsbot)** · `Python` `Telegram`  
+Automated gaming-news scraper and Telegram publisher with duplicate handling.
+
+**[Social Media Downloader](https://github.com/mohith-krishnaa/socialmediadownloader)** · `Python` `Flask`  
+Backend service for downloading supported social-media content through a unified API.
 
 ### 🧠 AI & Applications
 
-**[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** — Java-based AI health information assistant with API integration, caching and fallback knowledge.
+**[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** · `Java`  
+AI-oriented health information assistant built around API integration and fallback knowledge.
 
-**[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** — Voice-enabled agriculture platform combining market, weather, government and location information.
+**[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** · `Web` `APIs`  
+Agriculture platform combining market, weather, government, and location information.
 
-**[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** — AI-oriented platform for retrieving and summarizing policies, regulations and government schemes.
+**[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** · `AI` `Web`  
+Platform focused on retrieving and summarizing policies, regulations, and government schemes.
 
 ### 🔐 Utilities
 
-**[stegano.io](https://github.com/mohith-krishnaa/stegano.io)** — Client-side image steganography using the LSB technique.
+**[stegano.io](https://github.com/mohith-krishnaa/stegano.io)** · `JavaScript`  
+Client-side image steganography using the LSB technique.
 
-**[AutoType Clipboard](https://github.com/mohith-krishnaa/AutoType-Clipboard)** — Windows clipboard automation utility that preserves indentation and newlines while typing.
+**[AutoType Clipboard](https://github.com/mohith-krishnaa/AutoType-Clipboard)** · `Windows` `Automation`  
+Clipboard automation utility designed to preserve indentation and newlines while typing code.
 
 ---
 
@@ -88,8 +105,8 @@ AI             █████████████░░░░░░░  API
 Build useful things.
 Understand what the code actually does.
 Automate repetitive work.
-Prefer honest limitations over fake claims.
 Test real behavior, not assumptions.
+Prefer honest limitations over fake claims.
 Learn by building systems from scratch.
 Improve old projects instead of abandoning them.
 ```
@@ -98,15 +115,17 @@ Improve old projects instead of abandoning them.
 
 ## `./github`
 
-<div align="center">
+The GitHub profile itself is the live activity layer: repositories, commits, issues, pull requests, and the contribution graph are kept native to GitHub instead of being reproduced with third-party statistic cards.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohith-krishnaa&show_icons=true&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics" />
+---
 
-<br/>
+## `./about-this-page`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohith-krishnaa&layout=compact&hide_border=true" width="100%" alt="Top languages" />
+The profile is intentionally built like a small software project rather than a résumé full of badges.
 
-</div>
+The portrait is stored locally as `ascii.svg`, so the README does not need to load the profile image from an external image host. The artwork is a character-based rendering of the profile avatar.
+
+The rest of the page stays deliberately lightweight: plain Markdown, local artwork, and links to the projects that actually represent the work.
 
 ---
 
