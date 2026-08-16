@@ -1,136 +1,138 @@
 <div align="center">
 
-<img src="./scarf.jpg" width="260" alt="Dark-haired character wearing a scarf" />
+<img src="./scarf.jpg" width="230" alt="Profile artwork" />
 
 # MOHITH KRISHNAA
 
-`build -> break -> understand -> rebuild`
+### Computer Science · Data Science · Builder
 
-Computer Science / Data Science  
-Backend / Automation / Developer Tools
+`build → break → understand → rebuild`
 
-[GitHub @mohith-krishnaa](https://github.com/mohith-krishnaa)
+I build **software, automation, AI applications and developer tools** that solve practical problems.
+
+[Portfolio](https://github.com/mohith-krishnaa/mohithkrishnaa-portfolio) · [GitHub](https://github.com/mohith-krishnaa) · [LinkedIn](https://www.linkedin.com/in/mohithkrishnaa)
 
 </div>
 
 ---
 
-## `whoami`
+## `01 / flagship`
 
-I'm **Mohith Krishnaa**, a Computer Science & Data Science student who likes turning ideas, experiments, and repetitive tasks into working software.
+### 🌾 CropMarket
 
-I mainly work around **backend systems, Python automation, developer utilities, bots, APIs, and data/AI applications**.
+**My strongest product-focused project.**
 
-I prefer building something real, testing how it behaves, then improving it instead of pretending the first version is perfect.
+A farming decision-support application built around crop prices, market comparison, trends, profitability calculations, weather context, crop tools, multilingual interaction and voice-friendly workflows.
+
+**React · JavaScript · Recharts · Product UI**
+
+**[Live Demo](https://cropmarketapp.netlify.app/) · [Source](https://github.com/mohith-krishnaa/CropMarket)**
 
 ---
 
-## `./focus`
+## `02 / selected work`
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Protobuf Hex Inspector](https://github.com/mohith-krishnaa/protobuf-hex-inspector)** | Schema-less Protobuf HEX inspection and wire-type decoding | JavaScript |
+| **[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** | Educational AI assistant with Java backend and local fallback | Java · AI |
+| **[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** | Asset-ID scanning and icon preview utility | JavaScript |
+| **[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** | AI-assisted information retrieval and summarization interface | Web · AI |
+| **[Bpasset](https://github.com/mohith-krishnaa/Bpasset)** | Booyah Pass asset exploration and preview tool | JavaScript |
+| **[stegano.io](https://github.com/mohith-krishnaa/stegano.io)** | Browser-based image steganography utility | JavaScript |
+
+### Live demos
+
+**[Protobuf Inspector](https://mohith-krishnaa.github.io/protobuf-hex-inspector/)** · **[HealthAI](https://mohith-krishnaa.github.io/healthai-java-chatbot/)** · **[FF Icon Extractor](https://mohith-krishnaa.github.io/Iconsextractor/)** · **[EduAI](https://mohith-krishnaa.github.io/EduAI-Platform/)** · **[Bpasset](https://mohith-krishnaa.github.io/Bpasset/)**
+
+---
+
+## `03 / automation`
+
+### Telegram pipelines
+
+**[Anime News Bot](https://github.com/mohith-krishnaa/animenewsbotbymk)**
+
+Scraping → parsing → formatting → image publishing → duplicate protection → scheduled Telegram delivery.
+
+[Live channel](https://t.me/AniTimesIsland_acn)
+
+**[Gaming News Bot](https://github.com/mohith-krishnaa/gamedianewsbot)**
+
+Automated gaming-news ingestion, processing and scheduled Telegram publishing.
+
+[Live channel](https://t.me/GamediaNews_acn)
+
+### Self-hosted
+
+**[Social Media Downloader](https://github.com/mohith-krishnaa/socialmediadownloader)** — Flask + `yt-dlp`, with resource limits, concurrency controls, file-size checks and temporary-file cleanup.
+
+It is intentionally **not publicly deployed** to avoid unnecessary hosting costs and uncontrolled usage.
+
+---
+
+## `04 / stack`
 
 ```text
-BACKEND        Python / Flask / FastAPI / REST APIs
-AUTOMATION     Bots / Scraping / GitHub Actions
-WEB TOOLS      HTML / CSS / JavaScript
-DATA           NumPy / Pandas / MongoDB
-SYSTEMS        Java / C++ / Linux / Docker
-AI             APIs / AI applications
+LANGUAGES      Python · Java · C++ · JavaScript
+
+WEB            HTML · CSS · React · Browser APIs
+
+BACKEND        Flask · FastAPI · REST · HTTP · JSON
+
+DATA           NumPy · Pandas · MongoDB
+
+AUTOMATION     BeautifulSoup · Requests · yt-dlp
+               Telegram Bot API · GitHub Actions
+
+TOOLS          Git · GitHub · Linux · Docker
+
+AI             Gemini API · AI applications
 ```
 
 ---
 
-## `./stack`
-
-**Languages** / `Python` `Java` `C++` `JavaScript` `HTML` `CSS`
-
-**Backend** / `Flask` `FastAPI` `REST APIs` `HTTP` `JSON`
-
-**Data** / `NumPy` `Pandas` `MongoDB`
-
-**Automation** / `BeautifulSoup` `Requests` `yt-dlp` `Telegram Bot API` `GitHub Actions`
-
-**Tools** / `Git` `GitHub` `Linux` `Docker`
-
----
-
-## `./selected-projects`
-
-### Developer & Binary Tools
-
-**[Protobuf Hex Inspector](https://github.com/mohith-krishnaa/protobuf-hex-inspector)** / `JavaScript`  
-Schema-less browser utility for validating and inspecting supported Protobuf hexadecimal wire types without requiring a `.proto` schema. **[Live Demo](https://mohith-krishnaa.github.io/protobuf-hex-inspector/)**
-
-**[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** / `HTML` `CSS` `JavaScript`  
-Browser utility for scanning known Free Fire asset-ID patterns and previewing matching PNG icons. **[Live Demo](https://mohith-krishnaa.github.io/Iconsextractor/)**
-
-**[Booyah Pass Asset Browser](https://github.com/mohith-krishnaa/Bpasset)** / `HTML` `CSS` `JavaScript`  
-Browser-based utility for exploring a manually defined set of Free Fire Booyah Pass asset paths and downloading available images. **[Live Demo](https://mohith-krishnaa.github.io/Bpasset/)**
-
-### Automation
-
-**[Anime News Bot](https://github.com/mohith-krishnaa/animenewsbotbymk)** / `Python` `Telegram`  
-Automated anime-news pipeline with scraping, formatting, image publishing, scheduling, and duplicate protection. **[Live Telegram Channel](https://t.me/AniTimesIsland_acn)**
-
-**[Gaming News Bot](https://github.com/mohith-krishnaa/gamedianewsbot)** / `Python` `Telegram`  
-Automated gaming-news scraper and Telegram publisher with duplicate handling and scheduled execution. **[Live Telegram Channel](https://t.me/GamediaNews_acn)**
-
-**[Social Media Downloader](https://github.com/mohith-krishnaa/socialmediadownloader)** / `Python` `Flask`  
-Self-hosted Flask downloader using `yt-dlp`, with rate limits, concurrency controls, file-size checks, and temporary-file cleanup.
-
-### AI & Applications
-
-**[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** / `Java`  
-Educational full-stack health-information assistant using a Java HTTP backend, local knowledge fallback, caching, and optional Gemini integration. **[Live Demo](https://mohith-krishnaa.github.io/healthai-java-chatbot/)**
-
-**[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** / `Web`  
-Working browser-based farming decision-support application for market comparison, crop tools, weather context and related workflows. **[Live Demo](https://cropmarketapp.netlify.app/)**
-
-**[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** / `Web`  
-Working browser-based educational platform for information retrieval and AI-assisted summarization. **[Live Demo](https://mohith-krishnaa.github.io/EduAI-Platform/)**
-
-### Utilities
-
-**[stegano.io](https://github.com/mohith-krishnaa/stegano.io)** / `JavaScript`  
-Client-side image steganography utility for hiding and extracting data using LSB techniques.
-
-**[AutoType Clipboard](https://github.com/mohith-krishnaa/AutoType-Clipboard)** / `Windows` `Automation`  
-Windows clipboard automation utility that types copied text while preserving newlines and indentation.
-
----
-
-## `./principles`
+## `05 / how I build`
 
 ```text
-Build useful things.
-Understand what the code actually does.
-Automate repetitive work.
-Test real behavior, not assumptions.
-Prefer honest limitations over fake claims.
-Learn by building systems from scratch.
-Improve old projects instead of abandoning them.
+IDEA
+ ↓
+BUILD
+ ↓
+TEST REAL BEHAVIOR
+ ↓
+FIND WHAT BREAKS
+ ↓
+UNDERSTAND WHY
+ ↓
+REBUILD BETTER
 ```
 
----
-
-## `./github`
-
-The GitHub profile itself is the live activity layer: repositories, commits, issues, pull requests, and the contribution graph are kept native to GitHub instead of being reproduced with third-party statistic cards.
+I care more about **working software and honest limitations** than inflated project descriptions.
 
 ---
 
-## `./about-this-page`
+## `06 / currently`
 
-The profile is intentionally built like a small software project rather than a resume full of badges.
+- Building and improving practical software projects
+- Strengthening Java, Python, backend and system fundamentals
+- Exploring AI-assisted applications and automation
+- Turning older projects into cleaner, more maintainable work
 
-The header uses a **local repository image** so the profile does not depend on an external avatar URL or embedded image data.
+---
 
-The rest of the page stays deliberately lightweight: Markdown, a local avatar, and links to projects that actually represent the work.
+## `07 / portfolio`
+
+For the visual version of the portfolio:
+
+**[→ Open Portfolio](https://mohith-krishnaa.github.io/mohithkrishnaa-portfolio/)**
 
 ---
 
 <div align="center">
 
-**[@mohith-krishnaa](https://github.com/mohith-krishnaa)**
-
 `Still learning. Still building. Still breaking things.`
+
+**[@mohith-krishnaa](https://github.com/mohith-krishnaa)**
 
 </div>
