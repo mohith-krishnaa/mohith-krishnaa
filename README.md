@@ -57,40 +57,40 @@ AI             APIs / AI applications
 ### Developer & Binary Tools
 
 **[Protobuf Hex Inspector](https://github.com/mohith-krishnaa/protobuf-hex-inspector)** / `JavaScript`  
-Schema-less browser tool for inspecting and decoding raw Protobuf hexadecimal data without requiring a `.proto` schema.
+Schema-less browser tool for inspecting and decoding supported Protobuf hexadecimal wire types without requiring a `.proto` schema.
 
 **[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** / `HTML` `CSS` `JavaScript`  
-Utility for scanning, previewing, and downloading Free Fire icon assets.
+Frontend utility for scanning, previewing, copying IDs, and downloading discovered Free Fire icon assets.
 
 **[Booyah Pass Asset Browser](https://github.com/mohith-krishnaa/Bpasset)** / `HTML` `CSS` `JavaScript`  
-Browser for exploring Free Fire Booyah Pass assets across versions and seasons.
+Browser-based utility for exploring and previewing Free Fire Booyah Pass assets.
 
 ### Automation
 
 **[Anime News Bot](https://github.com/mohith-krishnaa/animenewsbotbymk)** / `Python` `Telegram`  
-Automated anime-news pipeline with scraping, formatting, image publishing, and duplicate protection.
+Automated anime-news pipeline with scraping, formatting, image publishing, scheduling, and duplicate protection.
 
 **[Gaming News Bot](https://github.com/mohith-krishnaa/gamedianewsbot)** / `Python` `Telegram`  
-Automated gaming-news scraper and Telegram publisher with duplicate handling.
+Automated gaming-news scraper and Telegram publisher with duplicate handling and scheduled execution.
 
 **[Social Media Downloader](https://github.com/mohith-krishnaa/socialmediadownloader)** / `Python` `Flask`  
-Backend service for downloading supported social-media content through a unified API.
+Flask-based downloader prototype using `yt-dlp`, with rate limits, concurrency controls, file-size checks, and temporary-file cleanup.
 
 ### AI & Applications
 
 **[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** / `Java`  
-AI-oriented health information assistant built around API integration and fallback knowledge.
+AI-oriented health information assistant prototype focused on API integration and conversational interaction.
 
-**[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** / `Web` `APIs`  
-Agriculture platform combining market, weather, government, and location information.
+**[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** / `Web`  
+Prototype exploring a crop-market interface and related data workflows; the repository is not currently a complete production platform.
 
-**[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** / `AI` `Web`  
-Platform focused on retrieving and summarizing policies, regulations, and government schemes.
+**[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** / `Web` `AI`  
+Educational AI prototype exploring structured study and information workflows.
 
 ### Utilities
 
 **[stegano.io](https://github.com/mohith-krishnaa/stegano.io)** / `JavaScript`  
-Client-side image steganography using the LSB technique.
+Client-side image steganography utility using the LSB technique.
 
 **[AutoType Clipboard](https://github.com/mohith-krishnaa/AutoType-Clipboard)** / `Windows` `Automation`  
 Clipboard automation utility designed to preserve indentation and newlines while typing code.
