@@ -2,15 +2,18 @@
 
 <img src="./ascii.svg" width="280" alt="ASCII portrait of Mohith Krishnaa"/>
 
-# MOHITH KRISHNAA
+<h2>MOHITH KRISHNAA</h2>
 
-`build → break → understand → rebuild`
+<code>build → break →</code><br/>
+<code>understand → rebuild</code>
 
-**Computer Science · Data Science · Backend · Automation · Developer Tools**
+<p>
+Computer Science · Data Science<br/>
+Backend · Automation · Developer Tools
+</p>
 
-<a href="https://github.com/mohith-krishnaa"><img src="https://img.shields.io/badge/GitHub-mohith--krishnaa-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=mohith-krishnaa&label=PROFILE%20VIEWS&style=for-the-badge" />
+<a href="https://github.com/mohith-krishnaa"><img src="https://img.shields.io/badge/GitHub-mohith--krishnaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br/>
+<img src="https://komarev.com/ghpvc/?username=mohith-krishnaa&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -97,11 +100,11 @@ Improve old projects instead of abandoning them.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohith-krishnaa&show_icons=true&hide_border=true&rank_icon=github&width=420" width="90%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohith-krishnaa&show_icons=true&hide_border=true&rank_icon=github" width="100%" alt="GitHub statistics" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohith-krishnaa&layout=compact&hide_border=true&width=420" width="90%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohith-krishnaa&layout=compact&hide_border=true" width="100%" alt="Top languages" />
 
 </div>
 
@@ -109,7 +112,7 @@ Improve old projects instead of abandoning them.
 
 <div align="center">
 
-**[@mohith-krishnaa](https://github.com/mohith-krishnaa)** · `Made by Mohith Krishnaa`
+**[@mohith-krishnaa](https://github.com/mohith-krishnaa)**
 
 <sub>Still learning. Still building. Still breaking things.</sub>
 
