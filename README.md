@@ -57,13 +57,13 @@ AI             APIs / AI applications
 ### Developer & Binary Tools
 
 **[Protobuf Hex Inspector](https://github.com/mohith-krishnaa/protobuf-hex-inspector)** / `JavaScript`  
-Schema-less browser tool for inspecting and decoding supported Protobuf hexadecimal wire types without requiring a `.proto` schema.
+Schema-less browser utility for validating and inspecting supported Protobuf hexadecimal wire types without requiring a `.proto` schema.
 
 **[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** / `HTML` `CSS` `JavaScript`  
-Frontend utility for scanning, previewing, copying IDs, and downloading discovered Free Fire icon assets.
+Experimental browser utility for scanning known Free Fire asset-ID patterns and previewing matching PNG icons.
 
 **[Booyah Pass Asset Browser](https://github.com/mohith-krishnaa/Bpasset)** / `HTML` `CSS` `JavaScript`  
-Browser-based utility for exploring and previewing Free Fire Booyah Pass assets.
+Browser-based utility for exploring a manually defined set of Free Fire Booyah Pass asset paths and downloading available images.
 
 ### Automation
 
@@ -79,21 +79,21 @@ Flask-based downloader prototype using `yt-dlp`, with rate limits, concurrency c
 ### AI & Applications
 
 **[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** / `Java`  
-AI-oriented health information assistant prototype focused on API integration and conversational interaction.
+Educational health-information assistant prototype using a Java HTTP backend, local knowledge fallback, caching, and optional Gemini integration.
 
 **[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** / `Web`  
-Prototype exploring a crop-market interface and related data workflows; the repository is not currently a complete production platform.
+Frontend prototype exploring a crop-market interface and related data workflows; the repository is not currently a complete production platform.
 
-**[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** / `Web` `AI`  
-Educational AI prototype exploring structured study and information workflows.
+**[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** / `Web`  
+Frontend educational dashboard prototype with interactive study-oriented UI components; currently a standalone HTML prototype.
 
 ### Utilities
 
 **[stegano.io](https://github.com/mohith-krishnaa/stegano.io)** / `JavaScript`  
-Client-side image steganography utility using the LSB technique.
+Client-side image steganography utility exploring LSB-based data hiding.
 
 **[AutoType Clipboard](https://github.com/mohith-krishnaa/AutoType-Clipboard)** / `Windows` `Automation`  
-Clipboard automation utility designed to preserve indentation and newlines while typing code.
+Clipboard automation project intended to preserve indentation and newlines while typing code; the current repository is incomplete and should not be treated as a finished release.
 
 ---
 
