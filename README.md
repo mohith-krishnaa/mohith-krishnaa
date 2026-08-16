@@ -1,25 +1,6 @@
 <div align="center">
 
-```text
-                 .-''''''''-.
-              .-'            '-.
-            .'                  '.
-           /    .--.      .--.    \
-          /    /    \____/    \    \
-         ;    |   .-      -.   |    ;
-         |    |  /   .--.   \  |    |
-         |    | |   (    )   | |    |
-         ;    |  \   '--'   /  |    ;
-          \    \   '-.__.-'   /    /
-           '.    '-.______.-'    .'
-             '-.              .-'
-                '------------'
-                    /    \
-                   /  MK  \
-                  /________\
-
-             M O H I T H   K R I S H N A A
-```
+<img src="./scarf.jpg" width="260" alt="Dark-haired character wearing a scarf" />
 
 # MOHITH KRISHNAA
 
@@ -140,9 +121,9 @@ The GitHub profile itself is the live activity layer: repositories, commits, iss
 
 The profile is intentionally built like a small software project rather than a resume full of badges.
 
-The identity art is **literal ASCII text** inside the README. There is no profile-photo image, embedded base64 image, external image host, or generated SVG required for the header.
+The header uses a **local repository image** so the profile does not depend on an external avatar URL or embedded image data.
 
-The rest of the page stays deliberately lightweight: Markdown, code blocks, and links to projects that actually represent the work.
+The rest of the page stays deliberately lightweight: Markdown, a local avatar, and links to projects that actually represent the work.
 
 ---
 
