@@ -1,42 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="280" height="210" viewBox="0 0 280 210" role="img" aria-labelledby="t d">
-<title id="t">ASCII portrait of Mohith Krishnaa</title>
-<desc id="d">Compact monochrome ASCII portrait.</desc>
-<rect width="280" height="210" fill="#0d1117"/>
-<g fill="#c9d1d9" font-family="monospace" font-size="4.8" xml:space="preserve">
-<text x="140" y="10" text-anchor="middle">....................</text>
-<text x="140" y="15" text-anchor="middle">.....::::::::::.....</text>
-<text x="140" y="20" text-anchor="middle">..::---====---::....</text>
-<text x="140" y="25" text-anchor="middle">.:--=++****++=--:...</text>
-<text x="140" y="30" text-anchor="middle">:-=+*########*+=-:..</text>
-<text x="140" y="35" text-anchor="middle">-=+*##%%%%%%##*+=-:.</text>
-<text x="140" y="40" text-anchor="middle">=+*#%%@@@@@@%%#*+=:.</text>
-<text x="140" y="45" text-anchor="middle">+*#%%@@@@@@@@%%#*+-..</text>
-<text x="140" y="50" text-anchor="middle">*#%%@@@@@@@@@@%%#*=:.</text>
-<text x="140" y="55" text-anchor="middle">##%@@@@@%%@@@@@%#*=-.</text>
-<text x="140" y="60" text-anchor="middle">#%@@@@%*==*%@@@@%*=-.</text>
-<text x="140" y="65" text-anchor="middle">%@@@@@*  ..*@@@@@*=-.</text>
-<text x="140" y="70" text-anchor="middle">%@@@@@*    *@@@@@*=-.</text>
-<text x="140" y="75" text-anchor="middle">#@@@@@%*==*%@@@@@#=-.</text>
-<text x="140" y="80" text-anchor="middle">#@@@@@@%%@@@@@@@%*=:.</text>
-<text x="140" y="85" text-anchor="middle">*%@@@@@@@@@@@@@%*=-..</text>
-<text x="140" y="90" text-anchor="middle">=*#%@@@@@@@@@%#*=-...</text>
-<text x="140" y="95" text-anchor="middle">:=+*#%%%%%%%%#*+=:...</text>
-<text x="140" y="100" text-anchor="middle">.-=+*########*+=-:...</text>
-<text x="140" y="105" text-anchor="middle">..:-=+******+=-:.....</text>
-<text x="140" y="110" text-anchor="middle">....:--====--:.......</text>
-<text x="140" y="116" text-anchor="middle">...::::------::::....</text>
-<text x="140" y="122" text-anchor="middle">..::---======---::...</text>
-<text x="140" y="128" text-anchor="middle">.:--==++++++++==--:..</text>
-<text x="140" y="134" text-anchor="middle">:-=++**********++=-:.</text>
-<text x="140" y="140" text-anchor="middle">-=+**########**+=-...</text>
-<text x="140" y="146" text-anchor="middle">=+*##%%%%%%%%##*+=...</text>
-<text x="140" y="152" text-anchor="middle">+*#%%@@@@@@@@%%#*+=...</text>
-<text x="140" y="158" text-anchor="middle">*#%%@@@@@@@@@@%%#*=:..</text>
-<text x="140" y="164" text-anchor="middle">##%%@@@@@@@@@@%%##=:..</text>
-<text x="140" y="170" text-anchor="middle">#%%%@@@@@@@@@@%%%#=...</text>
-<text x="140" y="176" text-anchor="middle">*#%%%@@@@@@@@%%%#*=...</text>
-<text x="140" y="182" text-anchor="middle">=+*##%%%%%%%%##*+=...</text>
-<text x="140" y="188" text-anchor="middle">.-=+*########*+=-....</text>
-<text x="140" y="199" text-anchor="middle" fill="#8b949e" font-size="4" letter-spacing="1.5">MK / MOHITH KRISHNAA</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="245" viewBox="0 0 320 245" role="img" aria-labelledby="title desc">
+<title id="title">Avatar-derived ASCII portrait of Mohith Krishnaa</title>
+<desc id="desc">Monochrome ASCII rendering generated from Mohith Krishnaa's profile avatar.</desc>
+<g fill="#c9d1d9" font-family="monospace" font-size="3.2" xml:space="preserve">
+<text x="160" y="8.0" text-anchor="middle">..,,,,,,,,,,,,,,,,,:::::,,,,,,,,,,,,,,.                                       .....,;ii;iXXXXXXA</text>
+<text x="160" y="11.6" text-anchor="middle">,,,,,,,,,,,,,,:,::::;;;;;;;:::::,,,,..     . ,#5    ,2Mhr                     .....,:::,,:;;;;,r</text>
+<text x="160" y="15.2" text-anchor="middle">,,,,,::::::::::;;;;;i;iiiii;:,..,,;;iri, ;&amp;G,  .hBHX5GSM5r                  ..... .......,..:</text>
+<text x="160" y="18.8" text-anchor="middle">,,,,:,,::::;;;;;;;;ii;;;,:;:::iX5hHGGSSGGS#hrX .;:S#;    :s5MHMX.                              .</text>
+<text x="160" y="22.4" text-anchor="middle">,,,::::::;;;;;;;;;;:;:;:,:s3GSGh5Xri;:,,,r5; ,::,i..,,,,    iAG#3;            .                </text>
+<text x="160" y="26.0" text-anchor="middle">::::::::::::::::::;;ii:;5SShs;.   ..,,,     .,.   ........,,   ;3SGX.         .,,,..,,         </text>
+<text x="160" y="29.6" text-anchor="middle">:::::::::::::::;;;;;;;:59HX:.......                          .,,  .sHS5;...,,..,,,,:;sXsr:      </text>
+<text x="160" y="33.2" text-anchor="middle">:::::::::::::::;;;;;:;G9s,,:::,::,.               .,           .:,..,A&amp;&amp;2:;;;;;;;;isXXXXXAs, .. </text>
+<text x="160" y="36.8" text-anchor="middle">:::::::::::::::;;;;;:i93i;;:,,,,.                  ::       .    .:;:29BhsiirrrrrsrriX52XXA:    </text>
+<text x="160" y="40.4" text-anchor="middle">:::::::::::;;;;;;;;:sMSGA::,,,.      ...      .    .,        ,       ,;XH#HAiisssssssAMh332Xs;,,</text>
+<text x="160" y="44.0" text-anchor="middle">;;;;;::::::;;;;;;:rH9hr,,,,,:,... ...                                   ,sh#S2irrrrsX53H&amp;MhMh352</text>
+<text x="160" y="47.6" text-anchor="middle">;;;;;;::;;;;;ii:;h9h;.,,,:i;,... ,,    .     .  .                         .:A9Srrrrss599MA25hMMM</text>
+<text x="160" y="51.2" text-anchor="middle">;;::::;;;;;;;;;29Gs,:::iXXr:,,.....     ..      .       .             .,   ,.:9Gii;2#9hXsssrXAX5</text>
+<text x="160" y="54.8" text-anchor="middle">i;;;;:MBi;;;;iGB2ss;;rXi:,:.  .......  ..               .            . .:.  , r@rrGB3rrsXXXsi;is</text>
+<text x="160" y="58.4" text-anchor="middle">iiirri9@M:i;:X@5sAXrrr;,:;,XMA ...... ..                       .     ,  ::  , hB3@Hr;ii;;isXri;i</text>
+<text x="160" y="62.0" text-anchor="middle">iiii;X@G@s:irsH5A#HSs,,,:,;BrG3 ,.:. ...  ..                        ;  ., ,3M&amp;srr ,;rX2hG9#riii</text>
+<text x="160" y="65.6" text-anchor="middle">iiii:M@;SB;irsrssM@@A,iAX.AG  Sr h9Sr ..  .            .      ,     ..     3@A  ihHS#SGh5Xr;;;;</text>
+<text x="160" y="69.2" text-anchor="middle">iiiii&amp;G:r@H::::::;s&amp;HX9M3h#M ,H9AB3X&amp;: .              :,      i:            ,5SSAX32si;::;i;;;;;</text>
+<text x="160" y="72.8" text-anchor="middle">;;i:A@A;;5@hhMhhhhhG9S9, ,3# MGG5BG S5 .           :;,.     ,25   sA          .AG#3::iiiii;;;;::</text>
+<text x="160" y="76.4" text-anchor="middle">:,;X9&amp;iiriX5Hhhh39@3&amp;HMMA; ,.rM9X:s hh .      .iX:iXXrrs23HhhA32rAr5h22i     . X@2XAAX:.,,::;:,...:</text>
+<text x="160" y="80.0" text-anchor="middle">rh99HX;iii;::::ihBArGHi;AhhX,  h#32;HM ... .iX:iXXrrs23HhhA32rAr5h22i     . X@2XAAX:.,,::;:,...:</text>
+<text x="160" y="83.6" text-anchor="middle">BHs,,:;;;;;;i;i&amp;9:XSXri,.:s2h2,3h,Ah95 ....rAX233;. .rhhMMMMhhh3Aiir:     . X@2XAAX:.,,::;:,...:</text>
+<text x="160" y="87.2" text-anchor="middle">#HM3Ai;;;;iiii;H&amp;A&amp;Mi;i;;;:.,X3#h...:...,.i23HGGM:.,:5MhhMMMMhMHi        . ,&amp;M     .,,,,.,,,,,..</text>
+<text x="160" y="90.8" text-anchor="middle">rX5M9h;rii;;;;;r&amp;@h:iii;;;;:. ,;;;sX:::..,AhhhhMH5is2hhhhMMMMhMH:.:;     .:9#,..... ..,......,:r</text>
+<text x="160" y="94.4" text-anchor="middle">AAXA&amp;h;sH#SHh5ArH@h;ii;i;:;:,..,;XssiX; .,X523hhhMMMMhhhhhMMhMhM5sA: .,;3H9H,......   .....,...,</text>
+<text x="160" y="98.0" text-anchor="middle">A2Ah@559S3hMHGS##BHr;X5Xi:::,,.,;srsXr;i:i25533hhhhhhhhh33h3553MMhs;,:rr32i.,,.............,,,:;</text>
+<text x="160" y="101.6" text-anchor="middle">22Ah@BBhAAAXXrrrrsH#HHGGShsr;:,.,rArrrsAAA255333hhh3333333332AMMhhhi;is#r,:,,,..,...........,,</text>
+<text x="160" y="105.2" text-anchor="middle">2225GH2A222222AAAAXAMSAis9#sX;,,.:XAsrsA2AA55355522333333333353hM355;r;2@r:;::::;::,,...........</text>
+<text x="160" y="108.8" text-anchor="middle">sXXAXA2222AAAXAAAAAsssXrABhsX:,:,.:sXssXAAA25555335333333333333hh35X;r;M#;i;:;iiirrrXsXrrrirrrri</text>
+<text x="160" y="112.4" text-anchor="middle">;;;;irrssssXXXAAAAXAAAXH@Hsr;,ir,..,:rXXA222255533hhh33333333533332:rri&amp;h;iiirsrsA222225#&amp;MA2222</text>
+<text x="160" y="116.0" text-anchor="middle">ii:;;;;;;iii;iirrrrssssA3HSGH#2r:,:,...,i222225553333335XAXXA53332:iriSBrirrrirrrisXX2X9Bh@GrXAX</text>
+<text x="160" y="119.6" text-anchor="middle">;..rsrrri:,;;;;;;::::;;;;issrGBr:,,i:,ii:AX222222255333555335333X:;;r#9ririiiiiiiiirssh@A,X&amp;SsAs</text>
+<text x="160" y="123.2" text-anchor="middle">  ,;sss;.  isrrrrrrrrrrrrii;:39sXA;GHrr;XsXA22222225555555533A;,,:29M:,:::,,:::;;;iir@M;M2r@#:,</text>
+<text x="160" y="126.8" text-anchor="middle">  .ri,,    ;ssssssss;::::,rrii:sis5sB#rs:rssrsXAA2255535553h5;.:r3#G2irirriii;::,,,, M&amp;.A@@;i@H.</text>
+<text x="160" y="130.4" text-anchor="middle">   ,       .;;:::,:rX23MMHGGGGSGGGGS#2sr:rsssssrsssXAA22552r,,;;sMs:;iiirrrrssrriii;s@h;S@@H.2@S</text>
+<text x="160" y="134.0" text-anchor="middle">   ...      .  :2MGHh5Xriri:,,,:iii;rssi;rssXXXXAXXXXXXXr;:;r52::,:;;;:::::::;:::,,.G&amp;:s@@@@3;A5</text>
+<text x="160" y="137.6" text-anchor="middle">    ..,       h9hs:      ..,,,:....,,.,,;sXXXXXX53333335::ssi##sMMMMMhhA2Asriiirrri;##:3@@@@@@@@</text>
+<text x="160" y="141.2" text-anchor="middle">      . .   .S#:    .,,isssssAh53h335XsrrsXXAAAXA533333A:;Xrisrr2AXXA553hHGSGM2si;;rM9M9@@@@@@@&amp;</text>
+<text x="160" y="144.8" text-anchor="middle">         . .#G     ,;rXXAAAAX5HGGHHMMMh5XXXAAAAAAA33335AAisAi:sXiiirX22Xri;;r5Ms;5S&amp;@@@@@@@@@@G</text>
+<text x="160" y="148.4" text-anchor="middle">           :@s   .:i25225MMh32hHHHHHMHHMh32AXXAAAA555522AA3MAA5HHHGGGHGGHh5X, XG&amp;G3BB&amp;&amp;@@@@@@@@@</text>
+<text x="160" y="152.0" text-anchor="middle">            A:  :irA3MhHMHGGG33MMHHHHHHHHHHM3522AAXA5553hMHhMMMHHHHHHHHMMHHH35@@Si    ..5@@@SH9&amp;</text>
+<text x="160" y="155.6" text-anchor="middle">           h9,  ;X5hHMhHhMh3GM3MMHHHGHHHHHHHHHMMMhhMHHHHHMHHHMHHHHHHHHM323GGhhMH#9hX5hHMi9@B, s5</text>
+<text x="160" y="159.2" text-anchor="middle">          5&amp;; .:X25hHHHHMGh5MG3hMMHHHHHHHHHHHHHHMMMMMHMMhhMMHMHHHHHHHHGHMM5MHh3h5ir@&amp;h5X9B;A, :@B</text>
+<text x="160" y="162.8" text-anchor="middle">         2@: .:AAA3MGHHHHHH55HM5MMMHHHHHHHHHHHHHHMMMHHHHHHHHHHHHHHHHHHHHH3hH3553A h#   ;@A   5@;</text>
+<text x="160" y="166.4" text-anchor="middle">        3&amp;;  ,i3A2hHGHGHGHGM23H33HMMMHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHM3hG3AA55.;@;   h@r:h@5 </text>
+<text x="160" y="170.0" text-anchor="middle">       s@;   ,i5A2MGHHGHHHGG35MM5MMHMMHHMHHHHHHHHMHHGSSGGGGGHHGHHHHHHGGHM3hHh52A5i GS   ,M&amp;BGi  </text>
+<text x="160" y="173.6" text-anchor="middle">       r@,   :isX2MGHHGGGGHGM53H33MHGMHHHHHHHGHMHMMHGSGHGGSSGSSGHHGHHSGHH33Hh22A22..&amp;5  :::;.   </text>
+<text x="160" y="177.2" text-anchor="middle">       ,@i   :rssAhGHGHHHGHHH55hM3hMHHMHHHHHGSHHHHHHHGHHHHGSSSGHHHHGSSGHH33Hh2A2A5X r@i .:. ..  </text>
+<text x="160" y="180.8" text-anchor="middle">       ,&amp;s   :rsss2GHGHHHGHHGh53MM5hHHHMHHHHSSHHHHHHGGHHHHHSGHHHGGGSSGHHH35H32A52A3; MB;,.:. , .</text>
+<text x="160" y="184.4" text-anchor="middle">  ,,   .@X   ,rssXsMGGGGGGGHGM553H35HHMMHHHGSGHHGGGGHHHGHHHSHHHGGSSSSHGHHh5M32A55252 .M:,;,, .,,</text>
+<text x="160" y="188.0" text-anchor="middle"> rM@9.   Gh  .,rssAs2GGGGGGGHGH5553H53Gh3MHHHSGHGHGSSGGHHHHHGHHGGHSSSGHHHGM5h32A23553i :M;,.,.,,.</text>
+<text x="160" y="191.6" text-anchor="middle"> @B5: .. :;, .,rssAAsMHGGGGGGHGh55AH32h353HHHGHHGGGSGGGHHHHHGHGGGHSSSGHHHGH5332A235252.,##,..,::,</text>
+<text x="160" y="195.2" text-anchor="middle"> r   A&amp;M hX,, ,rssAAs2HGGGGGGHHMH5X5323225HHGGHHGGGGGGGHHHHHHGGGGHSSSGGHHHG3552A255255r .SH ,::;:</text>
+<text x="160" y="198.8" text-anchor="middle">  ;#@3:  .,,,,rssAAXsHGGGGGGHHMH5X2223223HHGGHGGGGHHGGGHHHGGGGGGGSSGHHHHHGM52AAA552252:.:9h.,,,.</text>
+<text x="160" y="202.4" text-anchor="middle"> .h@H,   :: ,::ssXAAXs3GGGGGGGMMHhXAA23223MHGHHHGGGHHGHHHHHGGGGGGGSSGHHHHHGM5AAAA252255X .:SH:.  </text>
+<text x="160" y="206.0" text-anchor="middle"> B#i     X&amp;,.::sssAAAsAHGGGGHGMMHM2AX2322hMHHHHHGHGHHHHGGGGGGGGGGGSSHHHHHHHH5AAAA2522h55i   5&amp;9; </text>
+<text x="160" y="209.6" text-anchor="middle"> r        #5 ::ss;XAXAXhGGGGHHHMHM3AsA522hMHHHMMGGGHGHHHGHHGGGGGGGSGHGHHHMMH3A22AA222hhAA,   M5  </text>
+<text x="160" y="213.2" text-anchor="middle">         ,: ,;ssXiAXA52HGGGGHHHHM2AsX225h5MGHhHGGGGHHHHHHHHHHGGGGHGGHHHHMH3A22AA2AAMM5AX   A&amp;, </text>
+<text x="160" y="216.8" text-anchor="middle">         r9,.iss2isAXh35GGGGGHHHMsX2A22M33HHMMGHHHGHHHHGHHHHHHHHHHGGGHGGHMHH522AA2AAMHhAAi   H9.</text>
+<text x="160" y="220.4" text-anchor="middle">         s@; iss2siAX3H55GGGGGHH3rX5353M5MGHMHGHHGHHHHGGGGGGGGHHHGGGGHHGGHMHhA22AAX23332AAr. .2.</text>
+<text x="160" y="224.0" text-anchor="middle">         i@: ;sXAA;sA3GG33GGHHHHMXs355MM3HHHMH GHHHHGGGGGGGGGHHGGGGGGHGGGhHH2A2X2h3h#h32Xri    </text>
+<text x="160" y="227.6" text-anchor="middle">         H9  ;srs3A;XhMMM23GHHMHMXs555HhMHhMMHHHHGHHHGGGGGGGGGHHGGGGGGHGGGhMG3A2Ah@#B@X;i:;2h,  </text>
+<text x="160" y="231.2" text-anchor="middle">         i,  ,rrsM5i;AAAA25HGHHMMAr235MMHh2MMGHHGGGGGGGGGGGHGGHHGGGGGGHHGGHMHM2Ar2&amp;32&amp;25i.H3s,  </text>
+<text x="160" y="234.8" text-anchor="middle">             ,rsAh2AAA3hMHHHHHM3Xii253hHM5hMMGMHGGGGGGGGHHHHHHHHGGGGGGGGGGGHHH5: ,r  r;r,    .:.</text>
+<text x="160" y="241" text-anchor="middle" font-size="3.2" letter-spacing="1.1" fill="#8b949e">MK / MOHITH KRISHNAA</text>
 </g>
 </svg>
