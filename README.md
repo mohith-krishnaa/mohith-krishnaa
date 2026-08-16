@@ -60,10 +60,10 @@ AI             APIs / AI applications
 Schema-less browser utility for validating and inspecting supported Protobuf hexadecimal wire types without requiring a `.proto` schema. **[Live Demo](https://mohith-krishnaa.github.io/protobuf-hex-inspector/)**
 
 **[FF Icon Extractor](https://github.com/mohith-krishnaa/Iconsextractor)** / `HTML` `CSS` `JavaScript`  
-Browser utility for scanning known Free Fire asset-ID patterns and previewing matching PNG icons.
+Browser utility for scanning known Free Fire asset-ID patterns and previewing matching PNG icons. **[Live Demo](https://mohith-krishnaa.github.io/Iconsextractor/)**
 
 **[Booyah Pass Asset Browser](https://github.com/mohith-krishnaa/Bpasset)** / `HTML` `CSS` `JavaScript`  
-Browser-based utility for exploring a manually defined set of Free Fire Booyah Pass asset paths and downloading available images.
+Browser-based utility for exploring a manually defined set of Free Fire Booyah Pass asset paths and downloading available images. **[Live Demo](https://mohith-krishnaa.github.io/Bpasset/)**
 
 ### Automation
 
@@ -79,13 +79,13 @@ Self-hosted Flask downloader using `yt-dlp`, with rate limits, concurrency contr
 ### AI & Applications
 
 **[HealthAI Pro+](https://github.com/mohith-krishnaa/healthai-java-chatbot)** / `Java`  
-Educational health-information assistant using a Java HTTP backend, local knowledge fallback, caching, and optional Gemini integration.
+Educational full-stack health-information assistant using a Java HTTP backend, local knowledge fallback, caching, and optional Gemini integration. **[Live Demo](https://mohith-krishnaa.github.io/healthai-java-chatbot/)**
 
 **[CropMarket](https://github.com/mohith-krishnaa/CropMarket)** / `Web`  
-Working frontend application for exploring a crop-market interface and related data workflows.
+Working browser-based farming decision-support application for market comparison, crop tools, weather context and related workflows. **[Live Demo](https://cropmarketapp.netlify.app/)**
 
 **[EduAI Platform](https://github.com/mohith-krishnaa/EduAI-Platform)** / `Web`  
-Working browser-based educational dashboard with interactive study-oriented UI components.
+Working browser-based educational platform for information retrieval and AI-assisted summarization. **[Live Demo](https://mohith-krishnaa.github.io/EduAI-Platform/)**
 
 ### Utilities
 
