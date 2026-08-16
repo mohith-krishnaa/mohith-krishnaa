@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./pfp.svg" width="260" alt="Mohith Krishnaa profile avatar"/>
+<img src="https://avatars.githubusercontent.com/u/115228027?v=4" width="260" alt="Mohith Krishnaa profile avatar"/>
 
 <h2>MOHITH KRISHNAA</h2>
 
