@@ -118,6 +118,7 @@ I care more about **working software and honest limitations** than inflated proj
 - Strengthening Java, Python, backend and system fundamentals
 - Exploring AI-assisted applications and automation
 - Turning older projects into cleaner, more maintainable work
+- Keeping this portfolio current as projects evolve
 
 ---
 
